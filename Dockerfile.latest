@@ -1,2 +1,2 @@
-# Tags: latest
+# Tags:  latest
 FROM gcr.io/distroless/java11-debian11:latest
